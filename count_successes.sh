@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Extracts contents of a compressed tar archived specified as
 # the first command line argument and count the number of files
